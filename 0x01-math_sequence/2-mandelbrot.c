@@ -1,9 +1,3 @@
-/*
-* 2-mandelbrot.c - Prints a mandelbrot
-* Author: Rodrigo Zárate Algecira
-* Date: August 06, 2021
-*/
-
 #include <stdio.h>
 
 /**
